@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: springexample
+Bundle-SymbolicName: springexample
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.animal.model,
+ com.animal.model.dao,
+ com.animal.model.dao.impl
